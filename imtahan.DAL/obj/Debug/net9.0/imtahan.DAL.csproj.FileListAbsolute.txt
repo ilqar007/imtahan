@@ -1,0 +1,17 @@
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\bin\Debug\net9.0\imtahan.DAL.deps.json
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\bin\Debug\net9.0\imtahan.DAL.runtimeconfig.json
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\bin\Debug\net9.0\imtahan.DAL.dll
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\bin\Debug\net9.0\imtahan.DAL.pdb
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\obj\Debug\net9.0\imtahan.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\obj\Debug\net9.0\imtahan.DAL.AssemblyInfoInputs.cache
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\obj\Debug\net9.0\imtahan.DAL.AssemblyInfo.cs
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\obj\Debug\net9.0\imtahan.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\obj\Debug\net9.0\imtahan.DAL.dll
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\obj\Debug\net9.0\refint\imtahan.DAL.dll
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\obj\Debug\net9.0\imtahan.DAL.pdb
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\obj\Debug\net9.0\imtahan.DAL.genruntimeconfig.cache
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\obj\Debug\net9.0\ref\imtahan.DAL.dll
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\obj\Debug\net9.0\imtahan.DAL.csproj.AssemblyReference.cache
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\bin\Debug\net9.0\imtahan.BLL.dll
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\bin\Debug\net9.0\imtahan.BLL.pdb
+C:\Users\ilqar\source\repos\imtahan\imtahan.DAL\obj\Debug\net9.0\imtahan..E1F39C14.Up2Date

@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilqar\\source\\repos\\imtahan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{825FC2B7-7DC9-4CAE-8092-3A6025A1FC15}|imtahan.web\\imtahan.web.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FC2B7-7DC9-4CAE-8092-3A6025A1FC15}|imtahan.web\\imtahan.web.csproj|solutionrelative:imtahan.web\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.bll\\domainmodel\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|solutionrelative:imtahan.bll\\domainmodel\\entities\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.bll\\domainmodel\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|solutionrelative:imtahan.bll\\domainmodel\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FC2B7-7DC9-4CAE-8092-3A6025A1FC15}|imtahan.web\\imtahan.web.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FC2B7-7DC9-4CAE-8092-3A6025A1FC15}|imtahan.web\\imtahan.web.csproj|solutionrelative:imtahan.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.bll\\servicelayer\\dtoandmessages\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|solutionrelative:imtahan.bll\\servicelayer\\dtoandmessages\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.bll\\domainmodel\\entities\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|solutionrelative:imtahan.bll\\domainmodel\\entities\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FC2B7-7DC9-4CAE-8092-3A6025A1FC15}|imtahan.web\\imtahan.web.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FC2B7-7DC9-4CAE-8092-3A6025A1FC15}|imtahan.web\\imtahan.web.csproj|solutionrelative:imtahan.web\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FC2B7-7DC9-4CAE-8092-3A6025A1FC15}|imtahan.web\\imtahan.web.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825FC2B7-7DC9-4CAE-8092-3A6025A1FC15}|imtahan.web\\imtahan.web.csproj|solutionrelative:imtahan.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8C56EC-5C0F-4115-A2C9-69D1F5922E25}|imtahan.DAL\\imtahan.DAL.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.dal\\repositories\\repobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8C56EC-5C0F-4115-A2C9-69D1F5922E25}|imtahan.DAL\\imtahan.DAL.csproj|solutionrelative:imtahan.dal\\repositories\\repobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FC2B7-7DC9-4CAE-8092-3A6025A1FC15}|imtahan.web\\imtahan.web.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\imtahan.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{825FC2B7-7DC9-4CAE-8092-3A6025A1FC15}|imtahan.web\\imtahan.web.csproj|solutionrelative:imtahan.web\\imtahan.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8C56EC-5C0F-4115-A2C9-69D1F5922E25}|imtahan.DAL\\imtahan.DAL.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.dal\\datacontext\\imtahancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8C56EC-5C0F-4115-A2C9-69D1F5922E25}|imtahan.DAL\\imtahan.DAL.csproj|solutionrelative:imtahan.dal\\datacontext\\imtahancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.bll\\servicelayer\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|solutionrelative:imtahan.bll\\servicelayer\\services\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.bll\\domainmodel\\irepositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|solutionrelative:imtahan.bll\\domainmodel\\irepositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.bll\\domainmodel\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|solutionrelative:imtahan.bll\\domainmodel\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|c:\\users\\ilqar\\source\\repos\\imtahan\\imtahan.bll\\servicelayer\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E6BCAD5-4A0E-440B-85C6-6457015E4A86}|imtahan.BLL\\imtahan.BLL.csproj|solutionrelative:imtahan.bll\\servicelayer\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "imtahan.web\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "imtahan.web\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:30:38.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExamDto.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\ServiceLayer\\DtoAndMessages\\ExamDto.cs",
+              "RelativeDocumentMoniker": "imtahan.BLL\\ServiceLayer\\DtoAndMessages\\ExamDto.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\ServiceLayer\\DtoAndMessages\\ExamDto.cs",
+              "RelativeToolTip": "imtahan.BLL\\ServiceLayer\\DtoAndMessages\\ExamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:26:00.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "imtahan.web\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "imtahan.web\\Controllers\\ExamController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAawFgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:07:26.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "imtahan.web\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "imtahan.web\\Controllers\\ClassController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:05:09.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\Program.cs",
+              "RelativeDocumentMoniker": "imtahan.web\\Program.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\Program.cs",
+              "RelativeToolTip": "imtahan.web\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:40:05.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\DomainModel\\Entities\\Exam.cs",
+              "RelativeDocumentMoniker": "imtahan.BLL\\DomainModel\\Entities\\Exam.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\DomainModel\\Entities\\Exam.cs",
+              "RelativeToolTip": "imtahan.BLL\\DomainModel\\Entities\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:52:49.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\DomainModel\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "imtahan.BLL\\DomainModel\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\DomainModel\\Entities\\Student.cs",
+              "RelativeToolTip": "imtahan.BLL\\DomainModel\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:52:35.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\DomainModel\\Entities\\Class.cs",
+              "RelativeDocumentMoniker": "imtahan.BLL\\DomainModel\\Entities\\Class.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\DomainModel\\Entities\\Class.cs",
+              "RelativeToolTip": "imtahan.BLL\\DomainModel\\Entities\\Class.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:52:10.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\DomainModel\\IRepositories\\IRepo.cs",
+              "RelativeDocumentMoniker": "imtahan.BLL\\DomainModel\\IRepositories\\IRepo.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\DomainModel\\IRepositories\\IRepo.cs",
+              "RelativeToolTip": "imtahan.BLL\\DomainModel\\IRepositories\\IRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:43:28.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\ServiceLayer\\Services\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "imtahan.BLL\\ServiceLayer\\Services\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\ServiceLayer\\Services\\ServiceBase.cs",
+              "RelativeToolTip": "imtahan.BLL\\ServiceLayer\\Services\\ServiceBase.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:28:05.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImtahanContext.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.DAL\\DataContext\\ImtahanContext.cs",
+              "RelativeDocumentMoniker": "imtahan.DAL\\DataContext\\ImtahanContext.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.DAL\\DataContext\\ImtahanContext.cs",
+              "RelativeToolTip": "imtahan.DAL\\DataContext\\ImtahanContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:50:17.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "imtahan.web.csproj",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\imtahan.web.csproj",
+              "RelativeDocumentMoniker": "imtahan.web\\imtahan.web.csproj",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.web\\imtahan.web.csproj",
+              "RelativeToolTip": "imtahan.web\\imtahan.web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-10T18:33:33.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepoBase.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.DAL\\Repositories\\RepoBase.cs",
+              "RelativeDocumentMoniker": "imtahan.DAL\\Repositories\\RepoBase.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.DAL\\Repositories\\RepoBase.cs",
+              "RelativeToolTip": "imtahan.DAL\\Repositories\\RepoBase.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAlwKkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:30:33.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\ServiceLayer\\Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "imtahan.BLL\\ServiceLayer\\Services\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\ServiceLayer\\Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "imtahan.BLL\\ServiceLayer\\Services\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:43:08.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\DomainModel\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "imtahan.BLL\\DomainModel\\Entities\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\ilqar\\source\\repos\\imtahan\\imtahan.BLL\\DomainModel\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "imtahan.BLL\\DomainModel\\Entities\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:39:57.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

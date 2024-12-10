@@ -1,0 +1,11 @@
+C:\Users\ilqar\source\repos\imtahan\imtahan.BLL\bin\Debug\net9.0\imtahan.BLL.deps.json
+C:\Users\ilqar\source\repos\imtahan\imtahan.BLL\bin\Debug\net9.0\imtahan.BLL.dll
+C:\Users\ilqar\source\repos\imtahan\imtahan.BLL\bin\Debug\net9.0\imtahan.BLL.pdb
+C:\Users\ilqar\source\repos\imtahan\imtahan.BLL\obj\Debug\net9.0\imtahan.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilqar\source\repos\imtahan\imtahan.BLL\obj\Debug\net9.0\imtahan.BLL.AssemblyInfoInputs.cache
+C:\Users\ilqar\source\repos\imtahan\imtahan.BLL\obj\Debug\net9.0\imtahan.BLL.AssemblyInfo.cs
+C:\Users\ilqar\source\repos\imtahan\imtahan.BLL\obj\Debug\net9.0\imtahan.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ilqar\source\repos\imtahan\imtahan.BLL\obj\Debug\net9.0\imtahan.BLL.dll
+C:\Users\ilqar\source\repos\imtahan\imtahan.BLL\obj\Debug\net9.0\refint\imtahan.BLL.dll
+C:\Users\ilqar\source\repos\imtahan\imtahan.BLL\obj\Debug\net9.0\imtahan.BLL.pdb
+C:\Users\ilqar\source\repos\imtahan\imtahan.BLL\obj\Debug\net9.0\ref\imtahan.BLL.dll
